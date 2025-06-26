@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46363dd8-9f13-4159-9cbd-d447fa1a49c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ResultSet2xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar-tz-1.3.3-4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcalendar_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/rs2xml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/rs2xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee_management_system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/lib.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/AddEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/AdminDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/ChangePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/HRDashboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/Main_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/RemoveEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/Splash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/UpdateEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/View_Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/employee/management/system/conn.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2kvQaRVWfpbMpxsqcQru4rvgJ7g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Splash.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Krishna/Projects/employee_management_system",
+    "onboarding.tips.debug.path": "D:/Krishna/Projects/employee_management_system/lib/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Krishna\Projects\employee_management_system\src\employee\management\system" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Splash" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="employee.management.system.Splash" />
+      <module name="employee_management_system" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46363dd8-9f13-4159-9cbd-d447fa1a49c0" name="Changes" comment="" />
+      <created>1724161636401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724161636401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lib/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
